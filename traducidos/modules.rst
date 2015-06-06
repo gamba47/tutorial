@@ -208,7 +208,7 @@ compilar módulos desde diferentes releases y versiones de Python para
 coexistir.
 
 Python chequea la fecha de modificación de la fuente contra la versión
-compilada para evr si esta es obsoleta y necesita ser
+compilada para ver si esta es obsoleta y necesita ser
 recompilada. Esto es un proceso completamente automático. También, los
 módulos compilados son independientes de la plataforma, así que la
 misma librería puede ser compartida a través de sistemas con
