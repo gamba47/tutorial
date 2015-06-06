@@ -461,7 +461,7 @@ discutiremos en la sección siguiente.
 Una pequeña demostración::
 
    >>> canasta = {'manzana', 'naranja', 'manzana', 'pera', 'naranja', 'banana'}
-   >>> print fruta                  # muestra que se removieron los duplicados
+   >>> print (canasta)                  # muestra que se removieron los duplicados
    {'pera', 'manzana', 'banana', 'naranja'}
    >>> 'naranja' in canasta         # verificación de pertenencia rápida
    True
